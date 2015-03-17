@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["swap_memory","Swaps `len*4` bytes for `u32` objects from `src` to `dst`. The source and destination may not overlap."],["swap_memory_inplace","Swaps `len*4` bytes for `u32` objects inplace in `buf`."]],"constant":[["BYTES",""]]});

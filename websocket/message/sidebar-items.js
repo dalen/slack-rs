@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["CloseData","Represents data contained in a Close message"]],"enum":[["Message","Represents a WebSocket message."]]});
